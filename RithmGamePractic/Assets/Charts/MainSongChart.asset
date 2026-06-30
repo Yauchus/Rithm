@@ -33,19 +33,43 @@ MonoBehaviour:
     hitTime: 12
   - lane: 3
     hitTime: 13
-  - lane: 0
-    hitTime: 14
   - lane: 1
-    hitTime: 15
+    hitTime: 14
   - lane: 2
-    hitTime: 16
+    hitTime: 15
   - lane: 3
-    hitTime: 17
+    hitTime: 16
   - lane: 4
+    hitTime: 17
+  - lane: 5
     hitTime: 18
   - lane: 5
     hitTime: 19
-  - lane: 0
-    hitTime: 20
   - lane: 1
-    hitTime: 20.5
+    hitTime: 19.9
+  - lane: 2
+    hitTime: 20.3
+  - lane: 3
+    hitTime: 20.7
+  - lane: 5
+    hitTime: 21.1
+  - lane: 6
+    hitTime: 21.5
+  - lane: 5
+    hitTime: 21.9
+  - lane: 4
+    hitTime: 22.3
+  - lane: 2
+    hitTime: 22.6
+  - lane: 1
+    hitTime: 23.2
+  - lane: 6
+    hitTime: 23.6
+  - lane: 2
+    hitTime: 24
+  - lane: 5
+    hitTime: 24.8
+  - lane: 2
+    hitTime: 20.3
+  - lane: 2
+    hitTime: 20.3
